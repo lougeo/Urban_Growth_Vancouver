@@ -1,0 +1,27 @@
+Created by:
+Jean-Louis George
+26893546
+
+Study area:
+Vancouver Metropolitan Area
+
+Coordinates of window:
+Xmin: 468606
+Xmax: 543125
+Ymin: 5427751
+Ymax: 5491186
+
+Data sourced from:
+https://glovis.usgs.gov/
+
+Image 1:
+Global Land Survey (Landsat 5)
+15/08/1991
+
+Image 2:
+Landsat 8
+09/08/2018
+
+Data manipulated in Terrset in April 2019.
+
+Academic project not to be distributed.
