@@ -144,8 +144,7 @@ were made in this process:
 | Urban Reduction | 76.2381          |
 
 Graph \#1
-
-<span class="chart">\[CHART\]</span>
+![Chart one](https://github.com/lougeo/Urban_Growth_Vancouver/blob/master/Error_Graph.png)
 
 As is shown in map \#1, map \#2, and perhaps more easily comparable in
 graph \#1, the classification did indeed (thankfully) show the
