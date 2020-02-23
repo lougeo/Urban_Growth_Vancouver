@@ -1,6 +1,8 @@
 Louis George
 
-December, 2019
+Submitted in December, 2019
+Remote Sensing
+Concordia University
 
 **<span class="underline">Urban Growth in the Vancouver Metropolitan
 Area from 1991 to 2018</span>**
