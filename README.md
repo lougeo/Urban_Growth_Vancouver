@@ -1,5 +1,7 @@
 Louis George
 
+December, 2019
+
 **<span class="underline">Urban Growth in the Vancouver Metropolitan
 Area from 1991 to 2018</span>**
 
