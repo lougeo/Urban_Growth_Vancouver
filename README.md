@@ -1,7 +1,7 @@
 Louis George
 
-Submitted in December, 2019
-Remote Sensing
+Submitted in December, 2019   
+Remote Sensing   
 Concordia University
 
 **<span class="underline">Urban Growth in the Vancouver Metropolitan
